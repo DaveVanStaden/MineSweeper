@@ -12,4 +12,4 @@ Software/talen gebruikt:
   - Unity
 
 # GameLink:
--http://24008.hosts.ma-cloud.nl/bewijzenmap/jaar+3/MineSweeper/index.html
+-http://24008.hosts.ma-cloud.nl/bewijzenmap/jaar3/MineSweeper/index.html

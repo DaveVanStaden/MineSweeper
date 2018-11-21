@@ -1,13 +1,15 @@
 # MineSweeper
-Contributors:
+This is a minesweeper remake. You can open up minefields by clicking on them, if you hit a bomb all bombs will be revealed.
+The game cant end and you can still make moves once dead. This project was mostly based on getting a good floodfill.
+## Features
+- Floodfill
+- GridGenerator
+- Reveal bombs
+## LearningGoals
+- Floodfill
+- Make my first algorythm.
 
-  - Dave van Staden
-
-# Game Concept:
--get all panels on the wield without touching a mine.
-
-
-Software/talen gebruikt:
+## Software used:
   - Visual Studio
   - Unity
 
